@@ -1,3 +1,9 @@
+# Library
+Course on Zend Framework 1.7.5 
+
+Web page http://www.pamparam.net/
+About http://www.pamparam.net/2009/05/biblioteka-realizovanaja-na-zend-framework/
+
 *****************Установка***************
 
 Для запуска кода необходимо:
